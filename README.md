@@ -1,5 +1,11 @@
 # MPV-Clipboard-Player
 This script helps you automatically play videos with mpv player by just copying the URL from your browser.
+
+
+https://github.com/user-attachments/assets/e97b027a-d2fd-4d61-87a1-c2f7d7ab1f3b
+
+
+
 ## Instructions
 
 * Download [mpv](https://mpv.io/) player
