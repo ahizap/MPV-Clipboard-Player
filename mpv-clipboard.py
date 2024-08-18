@@ -13,7 +13,7 @@ def check_keyboard_input():
     while True:
         if keyboard.is_pressed('shift+p'):
             if previous_url:
-                print(f"Replaying previous URL: {previous_url}")
+                print(f"Replaying: {previous_url}")
                 play_url(previous_url)
             else:
                 print("No previous URL to play.")
@@ -27,7 +27,7 @@ previous_url = ""
 monitoring_active = True
 
 print("Copy a URL to the clipboard and it will play with MPV.")
-print("Press Shift+P to replay the previous URL.")
+print("Press Shift+P to replay.")
 print("Press Shift+T to toggle clipboard monitoring on/off.")
 
 # Start the keyboard input checking in a separate thread
