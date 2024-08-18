@@ -44,4 +44,4 @@ while True:
             print(f"Playing URL: {clipboard_url}")
             play_url(clipboard_url)
 
-    time.sleep(2)
+    time.sleep(0.1)
