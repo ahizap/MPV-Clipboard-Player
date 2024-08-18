@@ -28,7 +28,7 @@ monitoring_active = True
 
 print("Copy a URL to the clipboard and it will play with MPV.")
 print("Press Shift+P to replay.")
-print("Press Shift+T to toggle clipboard monitoring on/off.")
+print("Press Shift+M to toggle clipboard monitoring on/off.")
 
 # Start the keyboard input checking in a separate thread
 keyboard_thread = threading.Thread(target=check_keyboard_input)
