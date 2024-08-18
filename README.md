@@ -10,7 +10,9 @@ https://github.com/user-attachments/assets/e97b027a-d2fd-4d61-87a1-c2f7d7ab1f3b
 
 * Download [mpv](https://mpv.io/) player
 
-* Make sure you have pyperclip installed  `pip install pyperclip` 
+* Make sure you have pyperclip installed  `pip install pyperclip`
+
+* `pip install keyboard` 
  
 * Download youtube-dl (optional) 
  
